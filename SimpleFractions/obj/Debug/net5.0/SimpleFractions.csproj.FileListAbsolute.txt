@@ -1,0 +1,16 @@
+C:\Users\user\source\repos\SimpleFractions\SimpleFractions\obj\Debug\net5.0\SimpleFractions.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\SimpleFractions\SimpleFractions\obj\Debug\net5.0\SimpleFractions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\SimpleFractions\SimpleFractions\obj\Debug\net5.0\SimpleFractions.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\SimpleFractions\SimpleFractions\obj\Debug\net5.0\SimpleFractions.AssemblyInfo.cs
+C:\Users\user\source\repos\SimpleFractions\SimpleFractions\obj\Debug\net5.0\SimpleFractions.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\SimpleFractions\SimpleFractions\bin\Debug\net5.0\SimpleFractions.exe
+C:\Users\user\source\repos\SimpleFractions\SimpleFractions\bin\Debug\net5.0\SimpleFractions.deps.json
+C:\Users\user\source\repos\SimpleFractions\SimpleFractions\bin\Debug\net5.0\SimpleFractions.runtimeconfig.json
+C:\Users\user\source\repos\SimpleFractions\SimpleFractions\bin\Debug\net5.0\SimpleFractions.runtimeconfig.dev.json
+C:\Users\user\source\repos\SimpleFractions\SimpleFractions\bin\Debug\net5.0\SimpleFractions.dll
+C:\Users\user\source\repos\SimpleFractions\SimpleFractions\bin\Debug\net5.0\ref\SimpleFractions.dll
+C:\Users\user\source\repos\SimpleFractions\SimpleFractions\bin\Debug\net5.0\SimpleFractions.pdb
+C:\Users\user\source\repos\SimpleFractions\SimpleFractions\obj\Debug\net5.0\SimpleFractions.dll
+C:\Users\user\source\repos\SimpleFractions\SimpleFractions\obj\Debug\net5.0\ref\SimpleFractions.dll
+C:\Users\user\source\repos\SimpleFractions\SimpleFractions\obj\Debug\net5.0\SimpleFractions.pdb
+C:\Users\user\source\repos\SimpleFractions\SimpleFractions\obj\Debug\net5.0\SimpleFractions.genruntimeconfig.cache
